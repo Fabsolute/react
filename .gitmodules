@@ -1,0 +1,3 @@
+[submodule "ikile-client"]
+	path = ikile-client
+	url = git@github.com:Fabsolute/ikile-client.git
